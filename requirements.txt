@@ -1,2 +1,2 @@
-twitter==3.2
+twitter==1.17.1
 pip==9.0.1
